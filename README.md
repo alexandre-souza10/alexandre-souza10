@@ -38,9 +38,10 @@
 
 ### Contact Networks:
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/alexandre-souza-a45a64193/)](https://www.linkedin.com/in/alexandre-souza-a45a64193/)
+
 [![Gmail ](https://img.shields.io/badge/-alesouza102230@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alesouza102230@gmail.com)](mailto:alesouza102230@gmail.com)
 
-
+<br></br>
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
