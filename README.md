@@ -3,7 +3,7 @@
 <BR></BR>
 <BR></BR>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Alexandre+Felipe+de+Souza;I'm+25+years+old;I'm+from+Brasil,+SP,+São+José+dos+Campos;I'm+WEB+Mobile+Developer;Be+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Alexandre+Felipe+de+Souza;I'm+25+years+old;I'm+from+Brasil,+SP,+São+José+dos+Campos;I'm+WEB,+Mobile+Developer;Be+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexandre-souza10&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre Felipe de Souza github stats" /> 
@@ -28,7 +28,7 @@
 <img align="center" alt="visualstudiocode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="center" alt="wordpress" src="https://img.shields.io/badge/WordPress-14354C?style=for-the-badge&logo=python&logoColor=white" />  
+<img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-14354C?style=for-the-badge&logo=wordpress&logoColor=white" />  
  </div><br/>
 
 ### Studying in this moment:
