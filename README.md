@@ -19,6 +19,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="boodstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white" />
+   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-1572B6?style=for-the-badge&logo=github&logoColor=white" />
   </div><br/>
 
 
