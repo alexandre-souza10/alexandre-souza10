@@ -37,8 +37,8 @@
 <div style="display: inline_block">
 <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
- <img align="center" alt="java" src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white" />
-   </div><br/>
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white" />
+</div><br/>
 
 ### Contact Networks:
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/alexandre-souza-a45a64193/)](https://www.linkedin.com/in/alexandre-souza-a45a64193/)
