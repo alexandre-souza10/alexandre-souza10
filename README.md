@@ -31,6 +31,7 @@
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-14354C?style=for-the-badge&logo=wordpress&logoColor=white" />  
+<img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-14354C?style=for-the-badge&logo=typescript&logoColor=white" /> 
  </div><br/>
 
 ### Studying in this moment:
